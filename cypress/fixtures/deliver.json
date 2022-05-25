@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Julio Augusto",
+        "cpf": "48218586814",
+        "mail": "julioamartos@gmail.com",
+        "phone": "19974119022",
+        "address": {
+            "zip": "13188001",
+            "street": "Rua Antônio Francisco Lisboa",
+            "number": "1720",
+            "complement": "House",
+            "district": "Jardim Amanda I",
+            "city_uf": "Hortolândia/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Test cpf",
+        "cpf": "X821B5868WS",
+        "mail": "automation@gmail.com",
+        "phone": "1901112142",
+        "address": {
+            "zip": "13188001",
+            "street": "Rua Antônio Francisco Lisboa",
+            "number": "1720",
+            "complement": "House",
+            "district": "Jardim Amanda I",
+            "city_uf": "Hortolândia/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Test mail",
+        "cpf": "48218586814",
+        "mail": "teste.org.com",
+        "phone": "19974119022",
+        "address": {
+            "zip": "13188001",
+            "street": "Rua Antônio Francisco Lisboa",
+            "number": "1720",
+            "complement": "House",
+            "district": "Jardim Amanda I",
+            "city_uf": "Hortolândia/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
